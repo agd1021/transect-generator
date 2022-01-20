@@ -10,4 +10,4 @@ Given a single input polygon, transect length, and buffer distance around transe
 Iterates "Random Transects" in a while-loop with user-defined end-point to maximize the number of random transects placed in the polygon.
 
 ## Sample data:
-### PrincetonFarm.shp shapefile of a single polygon in which to place transects.
+<b>PrincetonFarm.shp</b> shapefile of a single polygon in which to place transects.
