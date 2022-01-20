@@ -1,7 +1,8 @@
 # transect-generator
 Python Toolbox for ArcMap Desktop that creates random transects in a polygon
 
-Prepared for: Matthews, Jonathan A., "Quantifying white-tailed deer density and its impact on agricultural systems" (2019). Theses and Dissertations--Forestry and Natural Resources. 47. https://uknowledge.uky.edu/forestry_etds/47
+## Prepared for
+Matthews, Jonathan A., "Quantifying white-tailed deer density and its impact on agricultural systems" (2019). Theses and Dissertations--Forestry and Natural Resources. 47. https://uknowledge.uky.edu/forestry_etds/47
 
 ## Tools:
 ### Random Transects
