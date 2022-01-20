@@ -15,4 +15,4 @@ Given an input transect shapefile, drops points at the start, end, and midpoint 
 "1) Maximize Number of Random Transects" outputs a textfile listing the number of random transects placed in each attempt. "3) Textfile to Histogram" creates a histogram from that output textfile.
 
 ## Sample data:
-### PrincetonFarm.shp shapefile of a singly polygon in which to place transects.
+### PrincetonFarm.shp shapefile of a single polygon in which to place transects.
