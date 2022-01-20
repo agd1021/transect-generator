@@ -5,8 +5,7 @@ Prepared for: Matthews, Jonathan A., "Quantifying white-tailed deer density and 
 
 ## Tools:
 ### 0) Random Transects
-Given a single input polygon, transect length, and buffer distance around transects, iteratively places non-intersecting transects of random bearings until no more can be placed 
-or the number of attempts maxes out. 
+Given a single input polygon, transect length, and buffer distance around transects, iteratively places non-intersecting transects of random bearings until either the number of attempts maxes out or a satisfactory proportion of the polygon is covered. 
 ### 1) Maximize Number of Random Transects
 Iterates "0) Random Transects" in a while-loop with user-defined end-point to maximize the number of random transects placed in the polygon.
 ### 2) Transect Points and Bearing to CSV
